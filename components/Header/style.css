@@ -1,0 +1,25 @@
+.top_of_page{
+    color: black;
+    border: 2px solid black;
+    width: 950px;
+    border-radius: 8px;
+    background-color: rgba(250, 235, 215, 0.485);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.271), rgba(42, 39, 39, 0.195)), ;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 16px;
+    
+    list-style-type: none 
+    
+}
+
+#Header_Home{
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    cursor: pointer;
+}
+#right_navbar{
+    display: flex;
+   
+}
